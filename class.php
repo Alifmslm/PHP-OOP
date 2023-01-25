@@ -15,7 +15,7 @@ class mobil2 {
 class mobil3 {
     //class dengan property
     public $pintu;
-    public $roda = 4;
+    public $roda;
 
     public function jalan() {
         return "Mobil Berjalan" . PHP_EOL;
