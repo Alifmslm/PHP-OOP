@@ -16,6 +16,8 @@ echo PHP_EOL;
 
 
 //contoh static
+
+//const bisa dipanggil seperti dibawah
 echo Lingkaran::PI;
 echo PHP_EOL;
 echo Lingkaran::luas(7);
